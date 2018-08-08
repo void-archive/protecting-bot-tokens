@@ -1,0 +1,23 @@
+{
+  "name": "protecting-bot-tokens",
+  "version": "1.0.0",
+  "description": "Live example for my Gist (on how to protect tokens from Git, go give it a read!) to help people better understand and implement into their bots",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/missingbinaries/protecting-bot-tokens.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/missingbinaries/protecting-bot-tokens/issues"
+  },
+  "homepage": "https://github.com/missingbinaries/protecting-bot-tokens#readme",
+  "dependencies": {
+    "discord.js": "^11.3.2"
+  }
+}
