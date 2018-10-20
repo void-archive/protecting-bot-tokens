@@ -1,5 +1,5 @@
 const { Client } = require('discord.js');
-const client = new Client({ disabledEveryone: true });
+const client = new Client({ disableEveryone: true });
 const { token } = require('./config');
 
 client.on('ready', () => {
